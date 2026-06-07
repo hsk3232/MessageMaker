@@ -1,4 +1,5 @@
-/.xml/
-/.metadata/
-/.xlsx/
-/.txt/
+# data
+.xml
+.metadata
+.xlsx
+.txt
